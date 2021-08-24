@@ -150,3 +150,15 @@ Day 49 <br>
 Day 50 <br>
 50.1 - Find N Unique Integers Sum up to Zero. <br>
 50.2 - Word Pattern. <hr>
+Day 51 <br>
+51.1 - Check If N and Its Double Exist. <br>
+51.2 - Complement of Base 10 Integer. <hr>
+Day 52 <br>
+52.1 - Sort Integers by The Number of 1 Bits. <br>
+52.2 - Increasing Decreasing String. <hr>
+Day 53 <br>
+53.1 - Lucky Numbers in a Matrix. <br>
+53.2 - Element Appearing More Than 25% In Sorted Array. <hr>
+Day 54 <br>
+54.1 - Determine Color of a Chessboard Square. <br>
+54.2 - Number of Strings That Appear as Substrings in Word. <hr>
