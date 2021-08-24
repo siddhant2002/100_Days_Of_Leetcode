@@ -1,5 +1,5 @@
 # 100_Days_Of_Leetcode
-<h1> Siddhant Swarup Mallick - 100 Days Of LeetCode Challenge </h1> <hr>
+<h1> Siddhant Swarup Mallick - 100 Days Of LeetCode </h1> <hr>
 Day 1 <br>
 1.1 - Median of two sorted arrays.<br>
 1.2 - Reverse Integer. <hr>
