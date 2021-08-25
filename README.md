@@ -162,3 +162,6 @@ Day 53 <br>
 Day 54 <br>
 54.1 - Determine Color of a Chessboard Square. <br>
 54.2 - Number of Strings That Appear as Substrings in Word. <hr>
+Day 55 <br>
+55.1 - First Missing Positive. <br>
+55.2 - Longer Contiguous Segments of Ones than Zeros. <hr>
