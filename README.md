@@ -165,3 +165,9 @@ Day 54 <br>
 Day 55 <br>
 55.1 - First Missing Positive. <br>
 55.2 - Longer Contiguous Segments of Ones than Zeros. <hr>
+Day 56 <br>
+56.1 - Divide Two Integers. <br>
+56.2 - Hamming Distance. <hr>
+Day 57 <br>
+57.1 - Binary Gap. <br>
+57.2 - Convert Integer to the Sum of Two No-Zero Integers. <hr>
