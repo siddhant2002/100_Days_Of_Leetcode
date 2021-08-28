@@ -171,3 +171,9 @@ Day 56 <br>
 Day 57 <br>
 57.1 - Binary Gap. <br>
 57.2 - Convert Integer to the Sum of Two No-Zero Integers. <hr>
+Day 58 <br>
+58.1 - Minimum Changes To Make Alternating Binary String. <br>
+58.2 - Top K Frequent Elements. <hr>
+Day 59 <br>
+59.1 - Minimum Operations to Make the Array Increasing. <br>
+59.2 - Find the Highest Altitude. <hr>
