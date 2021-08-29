@@ -177,3 +177,6 @@ Day 58 <br>
 Day 59 <br>
 59.1 - Minimum Operations to Make the Array Increasing. <br>
 59.2 - Find the Highest Altitude. <hr>
+Day 60 <br>
+60.1 - Remove Nth Node From End of List. <br>
+60.2 - Swapping Nodes in a Linked List. <hr>
