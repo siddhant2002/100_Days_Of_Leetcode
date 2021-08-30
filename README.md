@@ -180,3 +180,6 @@ Day 59 <br>
 Day 60 <br>
 60.1 - Remove Nth Node From End of List. <br>
 60.2 - Swapping Nodes in a Linked List. <hr>
+Day 61 <br>
+61.1 - Binary Search. <br>
+61.2 - First Bad Version. <hr>
