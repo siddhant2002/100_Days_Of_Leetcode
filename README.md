@@ -183,3 +183,6 @@ Day 60 <br>
 Day 61 <br>
 61.1 - Binary Search. <br>
 61.2 - First Bad Version. <hr>
+Day 62 <br>
+62.1 - Search Insert Position. <br>
+62.2 - Reverse String II. <hr>
