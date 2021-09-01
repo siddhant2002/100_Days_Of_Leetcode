@@ -186,3 +186,6 @@ Day 61 <br>
 Day 62 <br>
 62.1 - Search Insert Position. <br>
 62.2 - Reverse String II. <hr>
+Day 63 <br>
+63.1 - Palindrome Number. <br>
+63.2 - Calculate Money in Leetcode Bank. <hr>
