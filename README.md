@@ -189,3 +189,6 @@ Day 62 <br>
 Day 63 <br>
 63.1 - Palindrome Number. <br>
 63.2 - Calculate Money in Leetcode Bank. <hr>
+Day 64 <br>
+64.1 - Goal Parser Interpretation. <br>
+64.2 - Is Subsequence. <hr>
