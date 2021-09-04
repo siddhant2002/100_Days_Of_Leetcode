@@ -192,3 +192,9 @@ Day 63 <br>
 Day 64 <br>
 64.1 - Goal Parser Interpretation. <br>
 64.2 - Is Subsequence. <hr>
+Day 65 <br>
+65.1 - Uncommon Words from Two Sentences. <br>
+65.2 - Largest Perimeter Triangle. <hr>
+Day 66 <br>
+66.1 - Count Largest Group. <br>
+66.2 - Delete Columns to Make Sorted. <hr>
