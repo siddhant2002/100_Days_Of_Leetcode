@@ -198,3 +198,9 @@ Day 65 <br>
 Day 66 <br>
 66.1 - Count Largest Group. <br>
 66.2 - Delete Columns to Make Sorted. <hr>
+Day 67 <br>
+67.1 - Height Checker. <br>
+67.2 - Maximum Number of Balls in a Box. <hr>
+Day 68 <br>
+68.1 - Power of Four. <br>
+68.2 - Power of Three. <hr>
