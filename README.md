@@ -204,3 +204,6 @@ Day 67 <br>
 Day 68 <br>
 68.1 - Power of Four. <br>
 68.2 - Power of Three. <hr>
+Day 69 <br>
+69.1 - Power of Two. <br>
+69.2 - Number of 1 Bits. <hr>
