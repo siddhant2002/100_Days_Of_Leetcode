@@ -207,3 +207,6 @@ Day 68 <br>
 Day 69 <br>
 69.1 - Power of Two. <br>
 69.2 - Number of 1 Bits. <hr>
+Day 70 <br>
+70.1 - Permutation in String. <br>
+70.2 - Single Number. <hr>
