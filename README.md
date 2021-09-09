@@ -210,3 +210,6 @@ Day 69 <br>
 Day 70 <br>
 70.1 - Permutation in String. <br>
 70.2 - Single Number. <hr>
+Day 71 <br>
+71.1 - Single Number II. <br>
+71.2 - Single Number III. <hr>
