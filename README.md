@@ -213,3 +213,6 @@ Day 70 <br>
 Day 71 <br>
 71.1 - Single Number II. <br>
 71.2 - Single Number III. <hr>
+Day 72 <br>
+72.1 - Find Greatest Common Divisor of Array. <br>
+72.2 - Delete Characters to Make Fancy String. <hr>
