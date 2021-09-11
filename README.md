@@ -216,3 +216,6 @@ Day 71 <br>
 Day 72 <br>
 72.1 - Find Greatest Common Divisor of Array. <br>
 72.2 - Delete Characters to Make Fancy String. <hr>
+Day 73 <br>
+73.1 - Permutation in String. <br>
+73.2 - Longest Substring Without Repeating Characters. <hr>
