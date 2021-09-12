@@ -219,3 +219,6 @@ Day 72 <br>
 Day 73 <br>
 73.1 - Permutation in String. <br>
 73.2 - Longest Substring Without Repeating Characters. <hr>
+Day 74 <br>
+74.1 - Design HashMap. <br>
+74.2 - Design HashSet. <hr>
