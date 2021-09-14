@@ -222,3 +222,9 @@ Day 73 <br>
 Day 74 <br>
 74.1 - Design HashMap. <br>
 74.2 - Design HashSet. <hr>
+Day 75 <br>
+75.1 - Permutations. <br>
+75.2 - Minimum Difference Between Highest and Lowest of K Scores. <hr>
+Day 76 <br>
+76.1 - Smallest Range I. <br>
+76.2 - Range Addition II. <hr>
