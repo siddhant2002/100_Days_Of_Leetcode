@@ -228,3 +228,6 @@ Day 75 <br>
 Day 76 <br>
 76.1 - Smallest Range I. <br>
 76.2 - Range Addition II. <hr>
+Day 77 <br>
+77.1 - Reshape the Matrix. <br>
+77.2 - Defuse the Bomb. <hr>
