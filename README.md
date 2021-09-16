@@ -231,3 +231,6 @@ Day 76 <br>
 Day 77 <br>
 77.1 - Reshape the Matrix. <br>
 77.2 - Defuse the Bomb. <hr>
+Day 78 <br>
+78.1 - Find Common Characters. <br>
+78.2 - Maximum Subarray. <hr>
