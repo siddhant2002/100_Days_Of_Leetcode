@@ -234,3 +234,9 @@ Day 77 <br>
 Day 78 <br>
 78.1 - Find Common Characters. <br>
 78.2 - Maximum Subarray. <hr>
+Day 79 <br>
+79.1 - House Robber. <br>
+79.2 - House Robber II. <hr>
+Day 80 <br>
+80.1 - N-Repeated Element in Size 2N Array. <br>
+80.2 - Find the Duplicate Number. <hr>
