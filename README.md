@@ -240,3 +240,21 @@ Day 79 <br>
 Day 80 <br>
 80.1 - N-Repeated Element in Size 2N Array. <br>
 80.2 - Find the Duplicate Number. <hr>
+Day 81 <br>
+81.1 - Set Mismatch. <br>
+81.2 - Find Pivot Index. <hr>
+Day 82 <br>
+82.1 - Find the Middle Index in Array. <br>
+82.2 - Count Special Quadruplets. <hr>
+Day 83 <br>
+83.1 - Rotated Digits. <br>
+83.2 - Find First and Last Position of Element in Sorted Array. <hr>
+Day 84 <br>
+84.1 - Shifting Letters. <br>
+84.2 - Next Greater Element I. <hr>
+Day 85 <br>
+85.1 - Next Greater Element II. <br>
+85.2 - Student Attendance Record I. <hr>
+Day 86 <br>
+86.1 - Kth Largest Element in a Stream. <br>
+86.2 - Create Target Array in the Given Order. <hr>
