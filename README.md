@@ -258,3 +258,6 @@ Day 85 <br>
 Day 86 <br>
 86.1 - Kth Largest Element in a Stream. <br>
 86.2 - Create Target Array in the Given Order. <hr>
+Day 87 <br>
+87.1 - Keyboard Row. <br>
+87.2 - Basketball Game. <hr>
