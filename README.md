@@ -264,3 +264,6 @@ Day 87 <br>
 Day 88 <br>
 88.1 - Relative Sort Array. <br>
 88.2 - Rotate String. <hr>
+Day 89 <br>
+89.1 - Intersection of Two Linked Lists. <br>
+89.2 - Special Positions in a Binary Matrix. <hr>
