@@ -270,3 +270,33 @@ Day 89 <br>
 Day 90 <br>
 90.1 - Find the Winner of the Circular Game. <br>
 90.2 - DI String Match. <hr>
+Day 91 <br>
+91.1 - Reverse Prefix of Word. <br>
+91.2 - Rank Transform of an Array. <hr>
+Day 92 <br>
+92.1 - Remove Duplicates from Sorted Array II. <br>
+92.2 - Search in Rotated Sorted Array II. <hr>
+Day 93 <br>
+93.1 - Find Minimum in Rotated Sorted Array II. <br>
+93.2 - Toeplitz Matrix. <hr>
+Day 94 <br>
+94.1 - Swap Nodes in Pairs. <br>
+94.2 - Search a 2D Matrix. <hr>
+Day 95 <br>
+95.1 - Implement Queue using Stacks. <br>
+95.2 - Implement Stack using Queues. <hr>
+Day 96 <br>
+96.1 - Check if Array Is Sorted and Rotated. <br>
+96.2 - Get Maximum in Generated Array. <hr>
+Day 97 <br>
+97.1 - Find Words That Can Be Formed by Characters. <br>
+97.2 - Most Visited Sector in a Circular Track. <hr>
+Day 98 <br>
+98.1 - Shortest Completing Word. <br>
+98.2 - Convert 1D Array Into 2D Array. <hr>
+Day 99 <br>
+99.1 - Search a 2D Matrix II. <br>
+99.2 - Minimum Time to Type Word Using Special Typewriter. <hr>
+Day 100 <br>
+100.1 - Cells with Odd Values in a Matrix. <br>
+100.2 - Merge In Between Linked Lists. <hr>
